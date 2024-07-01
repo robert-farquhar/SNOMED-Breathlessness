@@ -1,0 +1,32 @@
+SNOMED Terms for Breathlessness
+
+267036007 |Dyspnea (finding)|
+719415004 |Breathlessness care (regime/therapy)|
+161941007 |Dyspnea at rest (finding)|
+297216006 |Increasing breathlessness (finding)|
+62744007 |Orthopnea (finding)|
+60845006 |Dyspnea on exertion (finding)|
+161940008 |Breathless - mild exertion (finding)|
+161939006 |Breathless - moderate exertion (finding)|
+870535009 |Chronic dyspnea (finding)|
+248548009 |Nocturnal dyspnea (finding)|
+59265000 |Paroxysmal dyspnea (finding)|
+719413006 |Breathlessness care management (procedure)|
+719415004 |Breathlessness care (regime/therapy)|
+162890008 |On examination - dyspnea (finding)|
+702535006 |Anxiety about breathlessness (finding)|
+702581006 |Difficulty eating due to breathlessness (finding)|
+719416003 |Opioid therapy for breathlessness management (procedure)|
+391126003 |Medical Research Council Dyspnoea scale grade 5 (finding)|
+391125004 |Medical Research Council Dyspnoea scale grade 4 (finding)|
+391124000 |Medical Research Council Dyspnoea scale grade 3 (finding)|	
+39950000 |Dyspnea, class III (finding)|
+73322006 |Dyspnea, class IV (finding)|
+401281000 |Borg Breathlessness Score: 3 moderate (finding)|
+401282007 |Borg Breathlessness Score: 4 somewhat severe (finding)|
+401284008 |Borg Breathlessness Score: 5 severe (finding)|
+401286005 |Borg Breathlessness Score: 6 severe (+) (finding)|
+401290007 |Borg Breathlessness Score: 7 very severe (finding)|
+401291006 |Borg Breathlessness Score: 8 very severe (+) (finding)|
+401292004 |Borg Breathlessness Score: 9 very, very severe (almost maximal) (finding)|
+401293009 |Borg Breathlessness Score: 10 maximal (finding)|
